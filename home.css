@@ -35,6 +35,19 @@ header a{
     font-size: 16px;
 }
 
+header .logo{
+    color: #e8491d;
+    font-weight: bold;
+}
 
+header .current a{
+    color: #e8491d;
+    font-weight: bold;
+}
+
+header a:hover{
+    color: gray;
+    font-weight: bold;
+}
 
 /* HEADER END  */

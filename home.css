@@ -113,3 +113,9 @@ header #branding h1{
     float: right;
     margin-top: 23px;
 }
+
+#newsletter input[type=email]{
+    padding: 4px;
+    height: 25px;
+    width: 250px;
+}

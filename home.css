@@ -18,6 +18,15 @@ ul{
     padding: 0;
 }
 
+.button1{
+    height: 38px;
+    background: #e8491d;
+    border: none;
+    padding: 0 20px 0 20px;
+    color: #ffffff;
+    border-radius: 2px;
+}
+
 /* HEADER START  */
 
 header{
@@ -74,7 +83,7 @@ header #branding h1{
 
 
 
-/* SECTION START  */
+/* SECTION ONE START  */
 
 #showcase{
     min-height: 400px;
@@ -97,3 +106,53 @@ header #branding h1{
 #showcase p{
     font-size: 20px;
 }
+
+#newsletter{
+    padding: 15px;
+    color: #ffffff;
+    background: #35424a;
+
+}
+
+#newsletter h1{
+    float: left;
+}
+
+#newsletter form{
+    float: right;
+    margin-top: 23px;
+}
+
+#newsletter input[type=email]{
+    padding: 4px;
+    height: 25px;
+    width: 250px;
+}
+
+/* SECTION ONE END  */
+
+
+
+
+/* SECTION BOXES START  */
+
+#boxes{
+    margin-top: 20px;
+
+}
+
+#boxes .box{
+    float: left;
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+
+}
+
+#boxes .box img{
+    width: 90px;
+    height: auto;
+}
+
+/* SECTION BOXES START  */
+

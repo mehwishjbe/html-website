@@ -129,4 +129,30 @@ header #branding h1{
     width: 250px;
 }
 
-/* SECTION ONE START  */
+/* SECTION ONE END  */
+
+
+
+
+/* SECTION BOXES START  */
+
+#boxes{
+    margin-top: 20px;
+
+}
+
+#boxes .box{
+    float: left;
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+
+}
+
+#boxes .box img{
+    width: 90px;
+    height: auto;
+}
+
+/* SECTION BOXES START  */
+

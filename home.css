@@ -71,3 +71,19 @@ header #branding h1{
     margin: 0;
 }
 /* HEADER END  */
+
+
+
+/* SECTION START  */
+
+#showcase{
+    min-height: 400px;
+    background-image: url('bg-img3.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-position: 0 -140px;
+    color: white;
+    text-align: center;
+    
+}

@@ -18,6 +18,15 @@ ul{
     padding: 0;
 }
 
+.button1{
+    height: 38px;
+    background: #e8491d;
+    border: none;
+    padding: 0 20px 0 20px;
+    color: #ffffff;
+    border-radius: 2px;
+}
+
 /* HEADER START  */
 
 header{

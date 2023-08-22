@@ -156,3 +156,16 @@ header #branding h1{
 
 /* SECTION BOXES END  */
 
+
+
+/* FOOTER START  */
+
+footer{
+    padding: 10px;
+    margin-top:20px;
+    color: #ffffff;
+    background-color: #e8491d;
+    text-align: center;
+}
+
+/* FOOTER END  */

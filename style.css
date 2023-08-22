@@ -199,3 +199,23 @@ footer{
 
 
 
+/* SERVICES PAGE START  */
+
+
+.li-bg{
+    list-style: none;
+    padding: 20px;
+    border: #cccccc solid 1px;
+    margin-bottom: 5px;
+    background-color: #e6e6e6;
+
+}
+
+.qoute input, .qoute textarea{
+    width: 90%;
+    padding: 5px;
+}
+/* SERVICES PAGE END  */
+
+
+

@@ -95,7 +95,7 @@ header #branding h1{
 
 #showcase{
     min-height: 400px;
-    background-image: url('bg-img3.png');
+    background-image: url('./img/bg-img3.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -147,14 +147,29 @@ header #branding h1{
 #boxes{
     margin-top: 20px;
 
+
 }
 
-#boxes .box{
+/* #boxes .box{
     float: left;
     width: 30%;
     padding: 10px;
     text-align: center;
 
+} */
+
+.box{
+    text-align: center;
+    width: 30%;
+    padding: 15px;
+
+}
+
+.box-cards{
+    display: flex;
+    justify-content: center;
+
+    
 }
 
 #boxes .box img{
@@ -234,6 +249,10 @@ footer{
         text-align: center;
         width: 100%;
     }
+    .box-cards{
+        display: flex;
+        flex-direction: column;
+    }
 
     header{
         padding-bottom: 20px;
@@ -260,8 +279,7 @@ footer{
         align-items: center;
 
     }
-    .qoute button1{
-    }
+    
 
 
 
